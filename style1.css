@@ -1,0 +1,30 @@
+Header{
+    height: 100px;
+    background-color: rgb(9, 155, 74);
+
+}
+
+nav{
+    height: 100px;
+    background-color: darkgray;
+}
+div{
+    overflow: hidden;
+}
+article{
+    height: 400px;
+    width: 30%;
+    background-color: crimson;
+    float: left;
+}
+aside{
+    height: 400px;
+    width: 70%;
+    background-color: darkblue;
+    float: right;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+
